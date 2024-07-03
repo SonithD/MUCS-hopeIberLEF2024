@@ -1,5 +1,6 @@
 # HOPE at IberLEF 2024
 # Team Name : MUCS
+# Title : Hope on the Horizon: Experiments with Learning Models for Hope Speech Detection in Spanish and English
 
 Hope is the expectation or belief that results in positive outcomes despite challenges or adversity and "hope speech" refers to text
 aimed at inspiring hope, motivation, or positivity. Individuals who are experiencing challenges may be inspired from hope speech
