@@ -33,8 +33,8 @@ some extent by balancing the dataset either by increasing the minority class sam
     * ML models
     * TL models
 # Task 2: English Multiclass Hope Speech detection
-* ML models
-* Hope_probfuse
+    * ML models
+    * Hope_probfuse
 Task 2: Multilingual models
 * TL_Ensemble model
 * TL_mBERT
